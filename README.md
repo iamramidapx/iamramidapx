@@ -1,4 +1,4 @@
-# Hi, I'm Ramida 👋
+# Hi, I'm Pearl 👋
 
 🔬 Microbiology background → 🛡️ Aspiring SOC / Blue Team Analyst
 
