@@ -16,10 +16,10 @@ from bacterial antibiotic resistance to threat detection and investigation.
 - **[SOC-Lab-Writeups](https://github.com/iamramidapx/SOC-Lab-Writeups)**: Analysis & investigation writeups
 - **[Forensic-Pathology-Internship-Report](https://github.com/iamramidapx/Forensic-Pathology-Internship-Report)**: Histopathology internship experience
 
-## 🧰 Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)
-![BTLO](https://img.shields.io/badge/BTLO-Blue_Team-0A66C2)
+## 🛡️ Find me on
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/notevenpearl)
+[![BTLO](https://img.shields.io/badge/BTLO-Blue_Team-0A66C2)](https://blueteamlabs.online/public/user/3b8ed7d2d6b3f8c6630879)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-SOC_Analyst-1F6FEB)](https://app.letsdefend.io/user/notevenpearl)
 
 **Interests:** SOC analysis · Incident investigation · Log analysis · Digital forensics
 
