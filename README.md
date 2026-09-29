@@ -8,7 +8,5 @@ Connecting **life sciences and cybersecurity**: from antibiotic resistance to th
 [![BTLO](https://img.shields.io/badge/BTLO-Blue_Team-0A66C2)](https://blueteamlabs.online/public/user/3b8ed7d2d6b3f8c6630879)
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-SOC_Analyst-1F6FEB)](https://app.letsdefend.io/user/notevenpearl)
 
-**Interests:** SOC analysis · Incident investigation · Log analysis · Digital forensics
-
 *"Same investigative mindset, different lab."* 🐾
 👇 **Projects and writeups are pinned below**
